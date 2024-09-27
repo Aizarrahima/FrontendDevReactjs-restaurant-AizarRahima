@@ -15,7 +15,6 @@ const Home = () => {
         fetch('https://restaurant-api.dicoding.dev/list')
             .then(response => response.json())
             .then(data => {
-                console.log(data.restaurants);
                 setRestaurants(data.restaurants);
                 setRestaurantDisplayed(data.restaurants.slice(0, 8));
             });
