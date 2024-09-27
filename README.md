@@ -1,8 +1,37 @@
-# FrontendDevReactjs-restaurant-AizarRahima# React + Vite
+# Restaurant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Technical Test - Front End Developer ReactJS
 
-Currently, two official plugins are available:
+#### Build with:
+* ReactJS (v18.3.1),
+* NodeJs (v20.11.1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Running
+1. **Clone the Repository**
+   
+   ```bash
+   git clone -b main https://github.com/Aizarrahima/FrontendDevReactjs-restaurant-AizarRahima.git
+   ```
+   
+2. **Go to the Project Directory**
+
+   ```bash
+   cd restaurant
+   ```
+   
+3. **Install Dependencies**
+
+   ```bash
+   npm install  
+   ```
+
+4. **Running Project**
+
+   ```bash
+   npm run dev
+   ```
+
+## Deployment
+
+This project is deployed using Netlify and can be accessed on this link: https://frontend-dev-restaurant-aizar.netlify.app/
+
